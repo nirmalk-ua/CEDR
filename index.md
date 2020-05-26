@@ -1,4 +1,6 @@
-Syntax highlighted code block
+---
+layout: default
+---
 
 # Hello World
 ## Header 2
